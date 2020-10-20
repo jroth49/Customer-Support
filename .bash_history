@@ -215,3 +215,54 @@ deb https://assests.checkra.in/debian / | sudo tee -a /etc/apt/sources.list
 deb https://assests.checkra.in/debian / | sudo tee -a /etc/apt/sources.list
 sudo
 sudo su
+$ git config
+git config
+git config --global user.name "jroth49"
+git config --global user.email "jackroth49@gmail.com"
+git init
+cd home/jack/.git/
+ls
+ls ..
+ls -l
+ls -a
+cd .git
+ls
+git add .
+cd ..
+git add .
+git rm --cached Zlogger
+ls
+rm ZLogger/
+rm -rf ZLogger/
+sudo rm -rf ZLogger/
+ls
+git add .
+ls
+git clone https://github.com/dhananjay-arora/CustomerSupportApp.git
+ls
+pwd
+git
+cls
+clear
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd home/jack
+ls
+ls C
+ls CustomerSupportApp/
+cat CustomerSupportApp/README.md 
+git config --global user.name "jroth49"
+git config --global user.email "jackroth49@gmail.com"
+git init
+git add -A
+git commit -m "first commit"
+git remote add myorigin https://github.com/jroth49/Customer-Support.git
+git push -u myorigin master
+pwd
